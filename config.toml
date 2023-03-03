@@ -1,0 +1,4 @@
+baseURL = 'https://joao951951.github.io/siteestatico-hugo'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
